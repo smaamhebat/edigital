@@ -1,0 +1,19 @@
+{
+  "name": "Sistem Pengurusan Digital SMAAM",
+  "short_name": "SMAAM Digital",
+  "description": "Portal Pengurusan Sekolah SMA Al-Khairiah Al-Islamiah Mersing. Mengandungi Takwim, Jadual, dan Pengurusan Rekod.",
+  "theme_color": "#0B132B",
+  "background_color": "#0B132B",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3209/3209265.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "requestFramePermissions": []
+}
